@@ -1,0 +1,9 @@
+ex02
+
+tres bien
+
+utiliser .gitignore
+
+dossier letter_count 2x ?
+supprimer temp
+
